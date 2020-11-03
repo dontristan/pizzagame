@@ -1,3 +1,3 @@
 # pizzagame
 Pizza: The Definitive Edition
-Game by DonTristan
+Game by DonTristan / Tristan Hafström

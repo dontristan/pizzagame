@@ -1,3 +1,2 @@
 # pizzagame
-Pizza: The Definitive Edition
-Game by DonTristan / Tristan Hafström
+demo by tristan hafström

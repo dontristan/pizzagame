@@ -1,4 +1,4 @@
 cd src
-python setup.py
-python pizzathedefinitiveedition.py
-python stopper.py
+py setup.py
+py pizzathedefinitiveedition.py
+pause
